@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/22 18:28:55.000.848,=rtl.dcp</Transaction>
+    <Transaction>2024/04/22 18:29:55.000.245,D:\teste\Softplan\componente\ConsultaCEP.dproj=C:\Users\Vitor\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2024/04/22 18:39:30.000.959,=D:\teste\Softplan\componente\CEPInterface.pas</Transaction>
+    <Transaction>2024/04/22 18:39:30.000.955,=D:\teste\Softplan\componente\CEPClient.pas</Transaction>
+    <Transaction>2024/04/22 18:41:35.000.927,=IndyCore.dcp</Transaction>
+    <Transaction>2024/04/22 18:41:35.000.924,=IndyProtocols.dcp</Transaction>
+    <Transaction>2024/04/22 18:41:35.000.921,=IndySystem.dcp</Transaction>
+    <Transaction>2024/04/22 18:41:35.000.865,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2024/04/22 18:41:35.000.863,=dbrtl.dcp</Transaction>
+    <Transaction>2024/04/22 19:35:00.000.759,=xmlrtl.dcp</Transaction>
+    <Transaction>2024/04/22 19:35:00.000.754,=vclactnband.dcp</Transaction>
+    <Transaction>2024/04/22 19:35:00.000.752,=vcl.dcp</Transaction>
+    <Transaction>2024/04/22 19:35:00.000.757,=vclx.dcp</Transaction>
+    <Transaction>2024/04/22 19:35:00.000.749,=designide.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.492,=xmlrtl.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.463,=vclx.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.435,=vcl.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.408,=designide.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.393,=D:\teste\Softplan\componente\CEPClient.pas</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.449,=vclactnband.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:06.000.194,=rtl.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:15.000.946,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:15.000.972,=IndySystem.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:15.000.999,=IndyProtocols.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:15.000.919,=dbrtl.dcp</Transaction>
+    <Transaction>2024/04/22 19:52:16.000.033,=IndyCore.dcp</Transaction>
+    <Transaction>2024/04/22 22:22:17.000.417,=D:\teste\Softplan\componente\CEPInterface.pas</Transaction>
+    <Transaction>2024/04/23 12:56:10.000.272,D:\teste\Softplan\componente\CEPInterface.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
